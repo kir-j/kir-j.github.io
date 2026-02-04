@@ -2,7 +2,7 @@
 
 **Institute of Geography, University of Bern**
 
-judith.kirschner@unibe.ch  
+<judith.kirschner@unibe.ch>  
 [LinkedIn](https://linkedin.com/in/kir-j)  
 [Download CV](cv.pdf)
 
