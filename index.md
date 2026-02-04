@@ -1,9 +1,9 @@
 # Judith Kirschner
 
-**Job Title / Field**
+**Postdoctoral researcher, Institute of Geography, University of Bern**
 
-📧 your.email@example.com  
-🔗 https://linkedin.com/in/yourname  
+📧 judith.kirschner@unibe.ch 
+🔗 https://linkedin.com/in/kir-j  
 📄 [Download CV](cv.pdf)
 
 ---
