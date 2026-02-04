@@ -10,12 +10,13 @@
 
 ## About
 I am a geographer with a strong interest on wildfire as a cultural and ecological process.  
-My research and training focus on social, organisational and policy dimensions of wildfire in Europe.
+My research interests evolve around social, organisational and policy dimensions of wildfire in Europe.
 
 I am on the 2025-2026 job market.
 
 ## Experience
 **Postdoctoral researcher**  
+April 2024-ongoing
 Wildfire, risk experiences and learning related to wildfire at individual and community levels in Switzerland and Cyprus  
 Land Systems and Sustainable Land Management Group, Prof. Chinwe Ifejika Speranza  
 
