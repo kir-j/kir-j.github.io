@@ -15,10 +15,9 @@ My research interests evolves around social and organisational aspects of wildfi
 I am on the 2025-2026 job market.
 
 ## Experience
-**Job Title – Company**  
-Dates  
-- Achievement  
-- Achievement  
+**Postdoctoral researcher**  
+Social aspects of wildfire in Switzerland and Cyprus  
+Land Systems and Sustainable Land Management Group, Prof. Chinwe Ifejika Speranza  
 
 ## Education
 PhD 'Wildfire governance' - European University Cyprus (associated with the PyroLife ITN)   
