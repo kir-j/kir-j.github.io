@@ -13,7 +13,7 @@ I am a geographer with a strong interest in wildfire as a cultural and environme
 
 My research evolves around social, organisational and policy dimensions of wildfire in Europe. I am trained in using both qualitative methods (interviews, field observations, content analysis; analysis with MaxQDA) and quantitative methods (surveys, questionnaires, remote sensing data; analysis with GIS, R, Python).  
 
-I am on the 2025-2026 job market.
+I am on the 2025-2026 job market. Please reach out if you're interested in chatting about potential collaborations or brainstorming project ideas together.
 
 ## Experience
 **Postdoctoral researcher**  
