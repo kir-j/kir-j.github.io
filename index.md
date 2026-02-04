@@ -1,6 +1,6 @@
 # Judith Kirschner
 
-**Postdoctoral researcher, Institute of Geography, University of Bern**
+**Institute of Geography, University of Bern**
 
 judith.kirschner@unibe.ch  
 [LinkedIn](https://linkedin.com/in/kir-j)  
@@ -9,7 +9,10 @@ judith.kirschner@unibe.ch
 ---
 
 ## About
-Short professional summary.
+I am a postdoctoral researcher at the Institute of Geography at University of Bern.
+My research interests evolves around social and organisational aspects of wildfire.
+
+I am on the 2025-2026 job market.
 
 ## Experience
 **Job Title – Company**  
@@ -18,7 +21,10 @@ Dates
 - Achievement  
 
 ## Education
-Degree – University
+PhD 'Wildfire governance' - European University Cyprus (associated with the PyroLife ITN) 
+MSc 'Earth Sciences' - University of Amsterdam
+BSc 'Environment and Bioresources Management' - University of Natural Resources and Life Sciences, Vienna
+
 
 ## Skills
 - Skill
