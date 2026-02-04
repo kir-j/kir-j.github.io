@@ -21,9 +21,9 @@ Dates
 - Achievement  
 
 ## Education
-PhD 'Wildfire governance' - European University Cyprus (associated with the PyroLife ITN) 
-MSc 'Earth Sciences' - University of Amsterdam
-BSc 'Environment and Bioresources Management' - University of Natural Resources and Life Sciences, Vienna
+PhD 'Wildfire governance' - European University Cyprus (associated with the PyroLife ITN)   
+MSc 'Earth Sciences' - University of Amsterdam  
+BSc 'Environment and Bioresources Management' - University of Natural Resources and Life Sciences, Vienna  
 
 
 ## Skills
