@@ -10,8 +10,7 @@
 
 ## About
 I am a geographer with a strong interest in wildfire as a cultural and environmental process and risk.  
-My research evolves around social, organisational and policy dimensions of wildfire in Europe.
-
+My research evolves around social, organisational and policy dimensions of wildfire in Europe. To this end, I use qualitative methods (interviews, field observations, content analysis) and quantitative methods (survey, questionnaires). I have basic skills in using GIS, R, Python, Adobe Illustrator. 
 
 I am on the 2025-2026 job market.
 
@@ -25,11 +24,6 @@ PhD 'Wildfire governance' - European University Cyprus (associated with the Pyro
 MSc 'Earth Sciences' - University of Amsterdam  
 BSc 'Environment and Bioresources Management' - University of Natural Resources and Life Sciences, Vienna  
 
-
-## Skills
-Qualitative methods: interviews, field observations, content analysis  
-Quantitative methods: surveys, questionnaires
-Basic knowledge in using GIS, R, Python, Adobe Illustrator
 
 
 ## Current works
