@@ -18,7 +18,7 @@ I am on the 2025-2026 job market.
 ## Experience
 **Postdoctoral researcher**  
 April 2024-ongoing: research on wildfire, risk and learning experiences at individual and community levels in Switzerland and Cyprus  
-(Land Systems and Sustainable Land Management Group, Prof. Chinwe Ifejika Speranza)  
+(Land Systems and Sustainable Land Management Group, Institute of Geography, University of Bern - Prof. Chinwe Ifejika Speranza)  
 
 ## Education
 PhD 'Wildfire governance' - European University Cyprus (associated with the PyroLife ITN)   
