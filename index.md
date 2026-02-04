@@ -9,7 +9,7 @@ judith.kirschner@unibe.ch
 ---
 
 ## About
-I am a postdoctoral researcher at the Institute of Geography at University of Bern.
+I am a postdoctoral researcher at the Institute of Geography at University of Bern.  
 My research interests evolves around social and organisational aspects of wildfire.
 
 I am on the 2025-2026 job market.
