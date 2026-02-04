@@ -2,9 +2,9 @@
 
 **Postdoctoral researcher, Institute of Geography, University of Bern**
 
-📧 judith.kirschner@unibe.ch 
-🔗 https://linkedin.com/in/kir-j  
-📄 [Download CV](cv.pdf)
+judith.kirschner@unibe.ch  
+[LinkedIn] (https://linkedin.com/in/kir-j)  
+[Download CV](cv.pdf)
 
 ---
 
@@ -23,3 +23,6 @@ Degree – University
 ## Skills
 - Skill
 - Skill
+
+## Current works
+Degree – University
