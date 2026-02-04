@@ -10,7 +10,7 @@
 
 ## About
 I am a geographer with a strong interest on wildfire as a cultural and ecological process.  
-My research is mostly centred around social, organisational and policy aspects of wildfire.
+My research and training focus on social, organisational and policy dimensions of wildfire in Europe.
 
 I am on the 2025-2026 job market.
 
