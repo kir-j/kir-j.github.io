@@ -10,7 +10,7 @@
 
 ## About
 I am a geographer with a strong interest in wildfire as a cultural and environmental process and risk.  
-My research interests evolve around social, organisational and policy dimensions of wildfire in Europe.
+My research evolves around social, organisational and policy dimensions of wildfire in Europe.
 
 
 I am on the 2025-2026 job market.
