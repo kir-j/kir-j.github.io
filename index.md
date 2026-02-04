@@ -9,7 +9,7 @@
 ---
 
 ## About
-I am a geographer with a passionate interest on wildfire.
+I am a geographer with a strong interest on wildfire as a cultural and ecological process.
 My research is mostly centred around social, organisational and policy aspects of wildfire.
 
 I am on the 2025-2026 job market.
