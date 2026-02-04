@@ -10,7 +10,7 @@
 
 ## About
 I am a geographer with a strong interest in wildfire as a cultural and environmental process and risk.  
-My research evolves around social, organisational and policy dimensions of wildfire in Europe. To this end, I use both qualitative methods (interviews, field observations, content analysis) and quantitative methods (surveys, questionnaires, remote sensing data). I have basic skills in GIS, R, Python, Adobe Illustrator. 
+My research evolves around social, organisational and policy dimensions of wildfire in Europe. I am trained in using both qualitative methods (interviews, field observations, content analysis) and quantitative methods (surveys, questionnaires, remote sensing data). I have basic skills in GIS, R, Python, Adobe Illustrator. 
 
 I am on the 2025-2026 job market.
 
