@@ -29,7 +29,7 @@ BSc 'Environment and Bioresources Management' - University of Natural Resources 
 ## Skills
 Qualitative methods: interviews, field observations, content analysis  
 Quantitative methods: surveys, questionnaires
-Basic knowledge in using GIS, R, Python
+Basic knowledge in using GIS, R, Python, Adobe Illustrator
 
 
 ## Current works
