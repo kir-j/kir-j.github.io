@@ -21,7 +21,7 @@ April 2024-ongoing: research on wildfire, risk and learning experiences at indiv
 (Land Systems and Sustainable Land Management Group, Institute of Geography, University of Bern - Prof. Chinwe Ifejika Speranza)  
 
 ## Education
-PhD 'Wildfire governance' - European University Cyprus (associated with the PyroLife ITN)   
+PhD 'Wildfire governance' - European University Cyprus (associated with 'PyroLife ITN' research and training network, funded by Maria Skłodowska Curie-Actions)   
 MSc 'Earth Sciences' - University of Amsterdam  
 BSc 'Environment and Bioresources Management' - University of Natural Resources and Life Sciences, Vienna  
 
