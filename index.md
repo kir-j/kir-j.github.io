@@ -9,7 +9,7 @@
 ---
 
 ## About
-I am a geographer interest in wildfire as a cultural and environmental process and risk.  
+I am a geographer interested in wildfire as a cultural and environmental process and risk.  
 
 My research evolves around social, organisational and policy dimensions of wildfire in Europe. I am trained in using both qualitative methods (interviews, field observations, content analysis; analysis with MaxQDA) and quantitative methods (surveys, questionnaires, remote sensing data; analysis with GIS, R, Python).  
 
